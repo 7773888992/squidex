@@ -9,7 +9,6 @@ function App() {
             <nav className='navbar fixed-top navbar-dark bg-primary navbar-expand-sm'>
                 <div className='container'>
                     <Navbar />
-
                     <TopNav />
                 </div>
             </nav>
