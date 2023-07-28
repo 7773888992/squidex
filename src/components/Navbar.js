@@ -9,7 +9,7 @@ const Navbar = () => {
           src="https://www.antargyan.com/images/thumbs/0000017_0000026_logo.png"
           alt="Logo"
           height="30"
-          style={{ marginLeft: '10px' , marginRight: '150px' }}
+          style={{ marginLeft: '10px' , marginRight: '225px' }}
         />
 
         <span style={{ color: '#000000', fontSize: '20px', fontWeight: 'bold' }}>
